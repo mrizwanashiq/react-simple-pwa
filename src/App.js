@@ -6,7 +6,6 @@ const App = () => {
 
   return (
     <div className="main-container">
-      {/* a simle screen showing data */}
       <h1 style={{ color: count > 0 ? "green" : count < 0 ? "red" : "white" }}>
         Counter App
       </h1>
