@@ -1,6 +1,6 @@
 {
-    "short_name": "Link",
-    "name": "Open Link",
+    "short_name": "Counter",
+    "name": "Counter App",
     "icons": [
         {
             "src": "/images/logo.png",
